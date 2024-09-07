@@ -83,6 +83,7 @@ Node* getLastButOne(Node *head)
 	{
 		head = head->next;
 	}
+	return head;
 	
 }
 
